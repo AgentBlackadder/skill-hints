@@ -1,0 +1,5 @@
+{
+  "name": "skill-hints",
+  "owner": { "name": "AgentBlackadder" },
+  "plugins": [{ "name": "skill-hints", "source": "./" }]
+}
